@@ -5,7 +5,13 @@ public class User{
 	private String surname;
     private String firstname;
 	private String patronymic;
-	
+
+	public User(String surname, String firstname, String patronymic) {
+		this.surname = surname;
+		this.firstname = firstname;
+		this.patronymic = patronymic;
+	}
+
 	public String getSurname(){
 		return surname;
 	}
@@ -15,6 +21,15 @@ public class User{
 	}
 	
 	public String getPatronymic(){
-		return partronymic;
+		return patronymic;
+	}
+
+	@Override
+	public String toString() {
+		return "User{" +
+				"surname='" + surname + '\'' +
+				", firstname='" + firstname + '\'' +
+				", patronymic='" + patronymic + '\'' +
+				'}';
 	}
 }
