@@ -10,6 +10,9 @@ public class TeacherController implements UserController<Teacher>{
     public void create(String surname, String firstname, String patronymic) {
         teacherService.create(surname,firstname,patronymic);
     }
+    public void editTeacher(Integer teacherId, String surname,String firstname, String patronymic){
+        teacherService.editTeacher(teacherId,surname,firstname,patronymic);
+    }
     public void initTeacherList(List<Teacher> list){
         teacherService.initData(list);
     }

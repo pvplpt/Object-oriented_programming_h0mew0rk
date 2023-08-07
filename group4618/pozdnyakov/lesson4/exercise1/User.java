@@ -12,6 +12,18 @@ public class User{
 		this.patronymic = patronymic;
 	}
 
+	public void setSurname(String surname) {
+		this.surname = surname;
+	}
+
+	public void setFirstname(String firstname) {
+		this.firstname = firstname;
+	}
+
+	public void setPatronymic(String patronymic) {
+		this.patronymic = patronymic;
+	}
+
 	public String getSurname(){
 		return surname;
 	}
@@ -32,4 +44,5 @@ public class User{
 				", patronymic='" + patronymic + '\'' +
 				'}';
 	}
+
 }

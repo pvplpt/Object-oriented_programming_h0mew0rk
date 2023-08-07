@@ -22,7 +22,15 @@ public class TeacherService implements UserService<Teacher>{
         Teacher teacher = new Teacher(++maxTeacherId,surname,firstname,patronymic);
         teacherList.add(teacher);
     }
-
+    public void editTeacher(Integer teacherId, String surname,String firstname, String patronymic){
+        for (Teacher teacher: teacherList) {
+            if (teacher.getTeacherId().equals(teacherId)){
+                teacher.setSurname(surname);
+                teacher.setFirstname(firstname);
+                teacher.setPatronymic(patronymic);
+            }
+        }
+    }
     private Integer getNewMaxTeacherId(){
         Integer result = teacherList.get(0).getTeacherId();
         for (Teacher teacher: teacherList) {
