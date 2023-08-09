@@ -30,4 +30,13 @@ public class StudentGroup {
     public void setStudentList(List<Student> studentList) {
         this.studentList = studentList;
     }
+
+    @Override
+    public String toString() {
+        return "StudentGroup{" +
+                "groupId=" + groupId +
+                ", teacher=" + teacher +
+                ", studentList=" + studentList +
+                '}';
+    }
 }

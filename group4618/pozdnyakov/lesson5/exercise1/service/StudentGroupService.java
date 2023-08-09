@@ -1,4 +1,8 @@
-package group4618.pozdnyakov.lesson5.exercise1.model;
+package group4618.pozdnyakov.lesson5.exercise1.service;
+
+import group4618.pozdnyakov.lesson5.exercise1.model.Student;
+import group4618.pozdnyakov.lesson5.exercise1.model.StudentGroup;
+import group4618.pozdnyakov.lesson5.exercise1.model.Teacher;
 
 import java.util.List;
 
