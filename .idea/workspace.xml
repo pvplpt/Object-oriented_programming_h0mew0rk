@@ -5,9 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="971f12a7-f4e2-44e5-922b-17ddb3b45473" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/group4618/pozdnyakov/lesson7/exercise1/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/group4618/pozdnyakov/lesson7/exercise1/calculator/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/group4618/pozdnyakov/lesson7/exercise1/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/group4618/pozdnyakov/lesson7/exercise1/calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/MemuOOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/MyTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson1/exercise1/HotBeverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson1/exercise1/HotBeverageVendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson1/exercise1/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson1/exercise1/Program11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson1/exercise1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson1/exercise1/VendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson2/exercise1/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson2/exercise1/ActorBehavoir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson2/exercise1/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson2/exercise1/Market.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson2/exercise1/MarketBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson2/exercise1/Program21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson2/exercise1/QueueBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson2/exercise1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/Stream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/StreamComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/StreamService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/StudentComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/StudentGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/StudentGroupInerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson3/exercise1/StudentGroupService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/TeacherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/TeacherService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/TeacherView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/UserComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson4/exercise1/UserView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/controller/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/model/StudentGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/model/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/model/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/service/DataService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/service/StudentGroupService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/view/StudentGroupView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/view/StudentView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/view/TeacherView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson5/exercise1/view/UserView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson6/exercise1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson6/exercise1/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson6/exercise1/UserComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson6/exercise1/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson6/exercise1/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson6/exercise1/UserView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson6/exercise1/solution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson7/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson7/exercise1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson7/exercise1/calculator/Calculable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson7/exercise1/calculator/CalculableFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson7/exercise1/calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson7/exercise1/calculator/ICalculableFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson7/exercise1/calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson7/exercise1/calculator/ViewCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented_programming_h0mew0rk/group4618/pozdnyakov/lesson7/exercise1/complex/Complex.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
